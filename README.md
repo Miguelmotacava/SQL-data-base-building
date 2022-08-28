@@ -18,7 +18,7 @@ In SQL we are going to structure the data we have. To do that we should stablish
 
 As we see in the figure, on  one hand, the connections between tables are represented with lines (which changes in function of the type of the relationship: 1:1, 1:m, m:m, ...). On the other hand, we have that each column has a symbol that represents if it is a primnary key (yellow) , a foreign key (red) or just a normal type of data (blue).
 
-Finally, when we have structured the databse, we are ready to write the queries! These are consultations that allow us to see the information that our database cointains. The queries we have wrote are in the SQL folder, with the querie that add the keys. The objetive of our queries is:
+Finally, when we have structured the databse, we are ready to write the queries! These are consultations that allow us to see the information that our database cointains. The queries we have wrote are in the SQL folder, with the querie that add the keys. The objetives of our queries are:
 
 
   a) the nº of films that each actor have made
