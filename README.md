@@ -20,8 +20,13 @@ As we see in the figure, on  one hand, the connections between tables are repres
 
 Finally, when we have structured the databse, we are ready to write the queries! These are consultations that allow us to see the information that our database cointains. The queries we have wrote are in the SQL folder, with the querie that add the keys. The objetive of our queries is:
 
-a) the nº of films that each actor have made
-b) categories of each film (to see if any movie has several categories)
-c) how many animated movies are?
-d) the 5 genres with more movies
-e) actor than participate in each film
+
+  a) the nº of films that each actor have made
+
+  b) categories of each film (to see if any movie has several categories)
+
+  c) how many animated movies are?
+
+  d) the 5 genres with more movies
+
+  e) actor than participate in each film
