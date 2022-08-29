@@ -18,6 +18,9 @@ In SQL we are going to structure the data we have. To do that we should stablish
 
 As we see in the figure, on  one hand, the connections between tables are represented with lines (which changes in function of the type of the relationship: 1:1, 1:m, m:m, ...). On the other hand, we have that each column has a symbol that represents if it is a primnary key (yellow) , a foreign key (red) or just a normal type of data (blue).
 
+![Captura de pantalla (115)](https://user-images.githubusercontent.com/109019847/187294844-fb760665-0224-4232-91a5-945bf2685cfd.png)
+
+
 Finally, when we have structured the databse, we are ready to write the queries! These are consultations that allow us to see the information that our database cointains. The queries we have wrote are in the SQL folder, with the querie that add the keys. The objetives of our queries are:
 
 
